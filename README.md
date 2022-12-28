@@ -2,8 +2,8 @@
 [Instruction](https://github.com/DenisovPavel/FirstTBlogControlTask/blob/main/Instruction.md)
 
 
-1. Для более понятного разбора алгоритма, рекомендую ознакомиться с блок-схемой по ссылке.![block-diagram]()
+1. Для более понятного разбора алгоритма, рекомендую ознакомиться с блок-схемой по ссылке.[block-diagram]()
 
 
 2. Основной код программы находится по ссылке 
-![]()
+[Programm]()
