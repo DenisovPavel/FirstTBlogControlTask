@@ -6,4 +6,4 @@
 
 
 2. Основной код программы находится по ссылке 
-[Programm]()
+[Programm](https://github.com/DenisovPavel/FirstTBlogControlTask/blob/main/Programm.md)
