@@ -36,10 +36,15 @@ string[] ShowNewArray(string[] inputarray)
 
     for (int i = 0; i < inputarray.Length; i++) 
     
+
+        for (int j = 0; j < outputarray.Length; j++) 
+        {
             if (inputarray[i].Length <= temp) 
-                outputarray[i] += inputarray[i] + ",";
-        
+                outputarray[j] += inputarray[i] + ",";
+        }
     
     return outputarray;
+}
+
 }
 ```
